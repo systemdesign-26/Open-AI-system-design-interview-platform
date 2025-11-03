@@ -1,6 +1,6 @@
 # Open-AI-system-design-interview-platform
 Curated guide to the best OpenAI system design interview platforms — complete with hands-on tools, mental models, and architecture reasoning for AI-scale infrastructure.
-# 🧠 The Best OpenAI System Design Interview Platform — Scale Your Prep Like a Transformer Model
+# 🧠 The Best OpenAI System Design Interview Platform for Engineers Who Think in Distributed Systems
 
 > *A developer’s guide to mastering system design for AI-scale problems.*
 
